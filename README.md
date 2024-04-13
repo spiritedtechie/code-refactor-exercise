@@ -1,22 +1,22 @@
 # Code refactor coding exercise
 
-A short (20 minute), practical and realistic code test designed to assess coding ability. Inspiration for engineering teams that want something different to Leetcode. 
+A short (20-minute), practical and realistic code test designed to assess coding ability. Inspiration for engineering teams that want something different to Leetcode. 
 
-Modify the propblem to your own problem space.
+Modify the problem to your own problem space.
 
 ## Why
 Often, the core work a software engineer performs in a real setting involves understanding existing code, before changing or improving it. Writing code (especially entire applications) from scratch is rare.
 
-The goal was to create a code test that is short and realistic. It should assess basic data structure and algorithm optimisation alongside code quality ability.
+The goal was to create a short, realistic code test. It should assess basic data structure and algorithm optimisation alongside code quality improvements.
 
-Writing an application from scratch is not helpful in keeping candidate effort reasonable, and delays the time to useful code-level technical assessment.
+Writing an application from scratch does not help keep candidate effort reasonable, and delays the time to useful code-level technical assessment.
 
 ## Improving the code
 There is no one right way to improve the code, but leaving it as is is certainly the wrong outcome.
 
-The improved code samples represent some small improvements - there is potential for further improvements e.g. what if customers list grows very large - is there a way to optimise the filtering?
+The improved code samples represent some small improvements - there is potential for further improvements e.g. what if the customer list grows very large - is there a way to optimise the filtering?
 
-Again, there is no right answer and some discussion around the problem context by the candidate is expected. For example, if there is a large amount of customers perhaps a database could be used? What are the alternative options and their pros/cons?
+Again, there is no right answer and some discussion around the problem context by the candidate is expected. For example, if there is a large number of customers perhaps a database could be used. What are the alternative options and their pros/cons?
 
 
 ## Process
