@@ -33,5 +33,5 @@ If stuck:
 
 ## Checklist of improvements
 
-[[images/1.png|Improvements]]
-[[images/2.png|Improvements]]
+![Improvements](images/1.png?raw=true)
+![Improvements](images/2.png?raw=true)
